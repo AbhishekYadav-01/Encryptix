@@ -1,0 +1,11 @@
+Problem Statement :
+CUSTOMER CHURN PREDICTION:
+
+I have to Develop a model to predict customer churn for a subscription based service or business. We will use historical customer data, including features like usage behavior
+and customer demographics, and we will try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn.
+
+Result :
+
+This project was analyzed with three models—Logistic Regression, Random Forests, and Gradient Boosting. Gradient Boosting emerged as the most accurate model, achieving an accuracy of 87.12%.
+The findings provide actionable insights for reducing churn and improving customer retention strategies.
+
